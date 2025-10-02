@@ -64,7 +64,7 @@
     Installation
     Clone the repository:
     
-    git clone [https://github.com/YourUsername/flutter_calculator.git](https://github.com/YourUsername/flutter_calculator.git)
+    git clone [[https://github.com/YourUsername/flutter_calculator.git](https://github.com/YourUsername/flutter_calculator.git](https://github.com/ShadabXaifi/calculator-app.git))
     cd flutter_calculator
     
     
